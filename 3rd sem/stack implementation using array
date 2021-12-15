@@ -1,3 +1,4 @@
+//implementing stack using array
 #include<stdio.h>
 #include<conio.h>
 
