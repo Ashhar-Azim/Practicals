@@ -36,3 +36,4 @@ int main() {
     if (j == r - 1)
     printf("\n");
   }
+}
