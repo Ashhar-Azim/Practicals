@@ -13,7 +13,7 @@ int stack[SIZE], top = -1;
 void main()
 {
    int value, choice;
-   clrscr();
+   
    while(1){
       printf("\n\n***** MENU *****\n");
       printf("1. Push\n2. Pop\n3. Display\n4. Exit");
