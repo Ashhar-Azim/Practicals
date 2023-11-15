@@ -11,7 +11,7 @@ pos = i;
 }
 return pos;
 }
- 
+
 int main()
 {
     int no_of_frames, no_of_pages, frames[10], pages[30], counter = 0, time[10], flag1, flag2, i, j, pos, faults = 0;
